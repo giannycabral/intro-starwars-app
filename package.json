@@ -1,0 +1,28 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "npm install -g eslint",
+  "repository": {
+    "type": "git",
+    "url": "eslint --init"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "prettier": "^2.8.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "husky": "^8.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
